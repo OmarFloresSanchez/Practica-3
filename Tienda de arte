@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="es-MX">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi ejemplo de tienda de arte</title>
+</head>
+<body>
+    <header>
+        <h1>Mi ejemplo de tienda de arte</h1>
+        <nav>
+            <p>
+                <a href="">Inicio</a> |
+                <a href="">Artista</a> |
+                <a href="">Obras de arte</a> |
+                <a href="">Sobre nosotros</a> |
+                <a href="">Busqueda</a>
+    
+            </p>
+        </nav>
+    </header>
+    <main>
+        <h2>
+            <span lang="fr">Madmoisele Caroline Rivière</span>
+        </h2>
+        <section>
+            <p>de <a href="">Jean-Auguste-Dominique Ingres</a></p>
+            <img src="06010-medium.jpg" alt="Una mujer">
+            <article>
+                El retrato de Madmoisele Caroline Rivière fue pintado en 1806 por el artista Neoclásico francés Jean Auguste Dominique Ingres, y hoy está<br>
+                expuesto en el Louvre. Es el tercero de tres retratos de la familia Riviere que el artiste pintó ese año.
+            </article>
+        </section>
+        <section>
+            <p>
+                Fecha: 1806<br>
+                Técnica: Oléao sobre Lienzo<br>
+                Dimensiones: 100 x 70 cm<br>
+                Hogar: Musee du Louvre París;
+
+            </p>
+        </section>
+        <div>
+            <img src="add-to-basket_btn.png"alt="Agregar_carrito">
+            <img src="add-to-favorites_btn.png"alt="Agregar_favoritos">
+        </div>
+        <div>
+            <p>
+                Compartir:
+                <img src="facebook_16.png"alt="fb">
+                <img src="twitter_16.png"alt="tw">
+                <img src="facebook_16.png"alt="fb">
+                <img src="sharethis_16.png"alt="st">
+            </p>
+            
+        </div>
+        <section>
+            <h3>
+                Pinturas Relacionadas
+            </h3>
+            <img src="06020.jpg"alt="mujer">
+            <img src="07020.jpg"alt="revolucion">
+            <img src="13030.jpg"alt="mujer2">
+            <img src="05030.jpg"alt="Marrat">
+        </section>
+        <section>
+            <h3>
+                Revisiones
+            </h3>
+            
+            <div>
+                <h4>
+                    Amo esta pintura
+                </h4>
+                <p>
+                    John Smith
+                    <img src="star-orange.png"alt="nar">
+                    <img src="star-orange.png"alt="nar">
+                    <img src="star-orange.png"alt="nar">
+                    <img src="star-orange.png"alt="nar">
+                    <img src="star-white.png"alt="bl">
+                </p>
+                <article>
+                    <p>
+                        Loren ipsum dolor sit amet, consecteur adipiscing elit. Etiam id metus sit amet ipsum cursus placerat nec vel enim. Aliquam justo tortor, euismod quis facilisis ullamcorper
+                        consequent sed eros.
+                    </p>
+                </article>
+            </div>
+            <hr>
+            <div>
+                <h4>
+                    Esta bien
+                </h4>
+                <p>
+                    Jane Doe
+                    <img src="star-orange.png"alt="nar">
+                    <img src="star-orange.png"alt="nar">
+                    <img src="star-orange.png"alt="nar">
+                    <img src="star-white.png"alt="bl">
+                    <img src="star-white.png"alt="bl"><br>
+                    
+                </p>
+                <article>
+                    <p>
+                        Quisque vitae ipsum risus sagittis solicitudin. Nam elementum ipsum malesuada mi sagitis hendrerit
+                    </p>
+                </article>
+            </div>
+            <hr>
+        </section>
+    </main>
+    <footer>
+        <a href="">Inicio</a> |
+        <a href="">Obras de arte</a> |
+        <a href="">Arte</a> |
+        <a href="">Acerca de nosotros</a> 
+        <p>
+            <em>Copyright C 2022 Mi ejemplo de tienda de arte</em>
+        </p>
+    </footer>
+    
+</body>
+</html>
